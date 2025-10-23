@@ -1,0 +1,16 @@
+{
+  "files": [
+    "/Users/jaffrey/dev/go-test-bed-1-25/main.go"
+  ],
+  "exclude_patterns": null,
+  "exclude_files": [],
+  "test_files": [],
+  "test_patterns": null,
+  "analyzer_meta": {
+    "name": "go",
+    "enabled": true,
+    "meta": {
+      "import_root": "go-test-bed-1-25"
+    }
+  }
+}
